@@ -1,67 +1,69 @@
 # Blinkit-Dashboard
 Power BI Dashboard showcasing Blinkit sales, customers, and feedback analysis with growth insights.
 
-# 📊 Power BI Sales Dashboard – Blinkt
+# 📊 Blinkit Sales Dashboard – Power BI
 
-This repository contains an interactive **Power BI dashboard** built using sales and customer data.  
-The dashboard helps analyze sales trends, customer segmentation, payment methods, top products, and customer feedback.
+This repository contains the **Blinkit Sales Dashboard** created in **Power BI**.  
+The dashboard provides deep insights into sales performance, customer behavior, payment methods, top products, and customer feedback.
 
 ---
 
-## 📂 Files
-- **Blinkt.pbix** → Power BI Dashboard file (open in Power BI Desktop).
+## 📂 File Included
+- **Blinkit.pbix** → Interactive Power BI dashboard file (open in Power BI Desktop).
 
 ---
 
 ## 🚀 Dashboard Features
 - **Sales Performance**
-  - Comparison of **2023 vs 2024 (last 6 months)**.
-  - Growth indicator (currently **-1.54% decline**).
-
-- **Payment Methods**
-  - Wallet, UPI, Card, and Cash usage trends.
+  - Sales comparison between **2023 vs 2024 (last 6 months)**.
+  - Growth tracking (current trend: **-1.54%** decline).
+  - Sales by month with year-over-year growth.
 
 - **Customer Insights**
-  - Segments: New, Regular, Premium, Inactive.
-  - Repeat vs Lost customers.
-  - 2+ order customers filter.
+  - Customer segmentation: **New, Regular, Premium, Inactive**.
+  - New vs Lost vs Repeat customer tracking.
+  - Customers with **2+ orders** filter.
+
+- **Payment Method Analysis**
+  - Breakdown by **Wallet, UPI, Card, and Cash**.
 
 - **Top Performers**
   - **Top Areas** (e.g., Aurangabad, Ghaziabad, Hapur, Udupi, Gopalpur).
-  - **Top Products** (Top 50).
-  - **Top Customers** by sales.
+  - **Top 50 Products** by sales value.
+  - **Top Customers** contributing to sales.
 
 - **Customer Feedback**
-  - Ratings distribution (1 ⭐ – 5 ⭐).
-  - Feedback by category: Delivery, App Experience, Customer Service, Product Quality.
+  - Rating distribution (⭐1 to ⭐5).
+  - Feedback categories: Delivery, App Experience, Customer Service, Product Quality.
   - Sentiment segmentation: Positive, Neutral, Negative.
 
 ---
 
 ## 🛠️ Tools Used
-- **Power BI Desktop** (for dashboard creation).  
-- **Excel/CSV** (as source data).
+- **Power BI Desktop** – Dashboard design and visualization.  
+- **Excel/CSV Data Sources** – Data preprocessing and modeling.  
 
 ---
 
 ## 📈 Key Insights
-- Sales growth shows a **-1.54% dip** in the last 6 months.  
-- Wallet & UPI are the most used payment methods.  
-- Good repeat customer base, but churn is noticeable.  
-- Customer Service & Delivery are areas needing improvement.  
+- Slight decline in growth (**-1.54%**) compared to last year.  
+- **Wallet & UPI** dominate as payment methods.  
+- A strong base of repeat customers but visible churn.  
+- Improvements needed in **Customer Service & Delivery** based on feedback analysis.  
 
 ---
 
 ## 💡 How to Use
-1. Clone or download this repository.  
-2. Open **Blinkt.pbix** in **Power BI Desktop**.  
-3. Explore interactive dashboards and apply filters for insights.  
+1. Download or clone this repository.  
+2. Open **Blinkit.pbix** in **Power BI Desktop**.  
+3. Use slicers and filters to interact with the dashboard.  
 
 ---
 
 ## 👨‍💻 Author
 - Created by **Tushar Kunwar**  
-- 📧 Contact: tusharkunwar745@gmail.com  
+- 📧 Contact: tusharkunwar745@gmail.com
+- 🌐 GitHub: https://github.com/tushar-745  
 
 ---
 
