@@ -55,7 +55,7 @@ The dashboard provides deep insights into sales performance, customer behavior, 
 
 ## 🛠️ Tools Used
 - **Power BI Desktop** – Dashboard design & data modeling.  
-- **Excel/CSV** – Source data.  
+- **MySQL** – Source data.  
 
 ---
 
